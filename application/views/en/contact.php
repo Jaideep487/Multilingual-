@@ -6,5 +6,5 @@
 <textarea name="message" id="message" required></textarea>
 <label for="message">Message</label>
 
-<button type="submit">Holy Shit</button>
+<button type="submit">Submit</button>
 </form>
